@@ -1,0 +1,7 @@
+Task: lubuntu-desktop
+Section: user
+Description: Lubuntu Desktop
+ This task provides the Lubuntu (Ubuntu LXDE environment).
+Key:
+ lubuntu-desktop
+Packages: task-fields

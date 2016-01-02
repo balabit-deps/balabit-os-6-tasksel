@@ -1,0 +1,8 @@
+Task: ubuntu-usb
+Section: user
+Description: Ubuntu desktop USB
+ This task provides the extra packages installed on the Ubuntu desktop USB image, above and beyond those included on the Ubuntu CD image. It is neither useful nor recommended to install this task in other environments.
+Key:
+ inkscape
+Seeds: desktop-common desktop
+Packages: task-fields

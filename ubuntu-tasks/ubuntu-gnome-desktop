@@ -1,0 +1,8 @@
+Task: ubuntu-gnome-desktop
+Section: user
+Description: Ubuntu GNOME desktop
+ This task provides the Ubuntu GNOME desktop environment.
+Key:
+ ubuntu-gnome-desktop
+Seeds: desktop-common
+Packages: task-fields

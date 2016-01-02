@@ -1,0 +1,8 @@
+Task: virt-host
+Section: server
+Description: Virtual Machine host
+ Packages necessary to host virtual machines
+Metapackage: ubuntu-virt-server
+Key:
+ ubuntu-virt-server
+Packages: task-fields

@@ -1,0 +1,10 @@
+Task: edubuntu-dvd-live
+Section: user
+Description: Edubuntu live DVD
+ This task provides the extra packages installed on the Edubuntu live DVD. It is neither useful nor recommended to install this task in other environments.
+Relevance: 2
+Key:
+ language-pack-aa
+Test-new-install: skip show
+Seeds: live-common
+Packages: task-fields

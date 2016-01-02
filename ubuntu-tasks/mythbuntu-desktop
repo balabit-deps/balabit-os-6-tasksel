@@ -1,0 +1,7 @@
+Task: mythbuntu-desktop
+Section: user
+Description: Mythbuntu additional roles
+ This task provides Mythbuntu roles for an existing system.
+Key:
+ mythbuntu-desktop
+Packages: task-fields

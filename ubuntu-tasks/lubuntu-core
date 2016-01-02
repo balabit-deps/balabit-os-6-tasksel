@@ -1,0 +1,8 @@
+Task: lubuntu-core
+Section: user
+Description: Lubuntu minimal installation
+ This task provides minimal packages for Lubuntu (Ubuntu LXDE environment).
+Key:
+ lubuntu-core
+Seeds: desktop-common
+Packages: task-fields

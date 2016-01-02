@@ -1,0 +1,176 @@
+# Polish translation of tasksel tasks.
+# Copyright (C) 2004-2012
+# This file is distributed under the same license as the tasksel package.
+#
+# Bartosz Fenski aka fEnIo <fenio@debian.org>, 2004-2008.
+# Michał Kułach <michal.kulach@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: tasksel/tasks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-11 16:19-0500\n"
+"PO-Revision-Date: 2012-01-24 18:23+0100\n"
+"Last-Translator: Michał Kułach <michal.kulach@gmail.com>\n"
+"Language-Team: Polish <debian-l10n-polish@lists.debian.org>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#. Description
+#: ../po/debian-tasks.desc:10001
+msgid "standard system utilities"
+msgstr "Podstawowe narzędzia systemowe"
+
+#. Description
+#: ../po/debian-tasks.desc:10001
+msgid ""
+"This task sets up a basic user environment, providing a reasonably small "
+"selection of services and tools usable on the command line."
+msgstr ""
+"To zadanie instaluje proste środowisko użytkownika, zapewniając niewielki, "
+"ale rozsądny, zestaw usług i narzędzi użytecznych w wierszu poleceń."
+
+#~ msgid "SQL database"
+#~ msgstr "Baza danych SQL"
+
+#~ msgid ""
+#~ "This task selects client and server packages for the PostgreSQL database."
+#~ msgstr ""
+#~ "To zadanie wybiera pakiety klientów i serwera dla bazy danych PostgreSQL."
+
+#~ msgid ""
+#~ "PostgreSQL is an SQL relational database, offering increasing SQL92 "
+#~ "compliance and some SQL3 features.  It is suitable for use with multi-"
+#~ "user database access, through its facilities for transactions and fine-"
+#~ "grained locking."
+#~ msgstr ""
+#~ "PostgreSQL jest relacyjną bazą danych SQL, oferujących coraz większą "
+#~ "zgodność z SQL92 oraz część możliwości SQL3. Jest odpowiednia do używania "
+#~ "w wieloużytkownikowym dostępie dzięki swoim ułatwieniom transakcji i "
+#~ "rozwiązaniom blokowania dostępu."
+
+#, fuzzy
+#~ msgid "Graphical desktop environment"
+#~ msgstr "Graficzne środowisko Xfce"
+
+#~ msgid ""
+#~ "This task provides basic desktop software and serves as a basis for the "
+#~ "GNOME and KDE desktop tasks."
+#~ msgstr ""
+#~ "To zadanie instaluje podstawowe oprogramowanie biurkowe i jest podstawą "
+#~ "zadań GNOME i KDE."
+
+#~ msgid "DNS server"
+#~ msgstr "Serwer DNS"
+
+#~ msgid ""
+#~ "Selects the BIND DNS server, and related documentation and utility "
+#~ "packages."
+#~ msgstr ""
+#~ "Wybiera serwer DNS BIND, i powiązaną z nim dokumentację oraz narzędzia."
+
+#~ msgid "File server"
+#~ msgstr "Serwer plików"
+
+#~ msgid ""
+#~ "This task sets up your system to be a file server, supporting both CIFS "
+#~ "and NFS."
+#~ msgstr ""
+#~ "To zadanie ustawia system tak by był serwerem plików, zarówno CIFS jak i "
+#~ "NFS."
+
+#~ msgid "GNOME desktop environment"
+#~ msgstr "Graficzne środowisko GNOME"
+
+#~ msgid ""
+#~ "This task provides basic \"desktop\" software using the GNOME desktop "
+#~ "environment."
+#~ msgstr ""
+#~ "To zadanie instaluje podstawowe oprogramowanie \"biurkowe\" używając "
+#~ "środowiska GNOME."
+
+#~ msgid "KDE desktop environment"
+#~ msgstr "Środowisko graficzne KDE"
+
+#~ msgid ""
+#~ "This task provides basic \"desktop\" software using the K Desktop "
+#~ "Environment."
+#~ msgstr ""
+#~ "To zadanie instaluje podstawowe oprogramowanie \"biurkowe\" używając "
+#~ "środowiska KDE."
+
+#~ msgid "Laptop"
+#~ msgstr "Laptop"
+
+#~ msgid "This task installs software useful for a laptop."
+#~ msgstr ""
+#~ "To zadanie instaluje oprogramowanie użyteczne dla komputerów przenośnych"
+
+#~ msgid "LXDE desktop environment"
+#~ msgstr "Graficzne środowisko LXDE"
+
+#~ msgid ""
+#~ "This task provides basic \"desktop\" software using the LXDE desktop "
+#~ "environment."
+#~ msgstr ""
+#~ "To zadanie instaluje podstawowe oprogramowanie \"biurkowe\" używając "
+#~ "środowiska LXDE."
+
+#~ msgid "Mail server"
+#~ msgstr "Serwer pocztowy"
+
+#~ msgid ""
+#~ "This task selects a variety of package useful for a general purpose mail "
+#~ "server system."
+#~ msgstr ""
+#~ "To zadanie wybiera wiele pakietów użytecznych dla serwera pocztowego "
+#~ "ogólnego przeznaczenia."
+
+#~ msgid "manual package selection"
+#~ msgstr "ręczny wybór pakietów"
+
+#~ msgid "Manually select packages to install in aptitude."
+#~ msgstr "Ręczne wybieranie pakietów do instalacji w aptitude."
+
+#~ msgid "Print server"
+#~ msgstr "Serwer druku"
+
+#~ msgid "This task sets up your system to be a print server."
+#~ msgstr "To zadanie ustawia system jako serwer druku."
+
+#, fuzzy
+#~ msgid "SSH server"
+#~ msgstr "Serwer DNS"
+
+#, fuzzy
+#~ msgid ""
+#~ "This task sets up your system to be remotely accessed through SSH "
+#~ "connections."
+#~ msgstr "To zadanie ustawia system jako serwer druku."
+
+#, fuzzy
+#~ msgid "Standard system utilities"
+#~ msgstr "System podstawowy"
+
+#~ msgid "Web server"
+#~ msgstr "Serwer WWW"
+
+#~ msgid ""
+#~ "This task selects packages useful for a general purpose web server system."
+#~ msgstr ""
+#~ "To zadanie wybiera pakiety użyteczne w systemie pracującym jako serwer "
+#~ "WWW."
+
+#~ msgid "Xfce desktop environment"
+#~ msgstr "Graficzne środowisko Xfce"
+
+#~ msgid ""
+#~ "This task provides basic \"desktop\" software using the Xfce desktop "
+#~ "environment."
+#~ msgstr ""
+#~ "To zadanie instaluje podstawowe oprogramowanie \"biurkowe\" używając "
+#~ "środowiska Xfce."

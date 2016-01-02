@@ -1,0 +1,8 @@
+Task: ubuntu-mate-cloudtop
+Section: user
+Description: Ubuntu MATE cloudtop
+ This task provides the Ubuntu MATE desktop environment suitable for remote terminal servers.
+Key:
+ ubuntu-mate-cloudtop
+Seeds: desktop-common
+Packages: task-fields

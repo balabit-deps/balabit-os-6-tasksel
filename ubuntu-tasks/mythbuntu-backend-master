@@ -1,0 +1,9 @@
+Task: mythbuntu-backend-master
+Section: user
+Description: Mythbuntu master backend
+ This task installs a MythTV master backend and a mysql server
+ server system.
+Key:
+ mythtv-backend-master
+Seeds: desktop
+Packages: task-fields

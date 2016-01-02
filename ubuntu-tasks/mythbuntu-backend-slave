@@ -1,0 +1,9 @@
+Task: mythbuntu-backend-slave
+Section: user
+Description: Mythbuntu slave backend
+ This task installs a MythTV slave backend. It needs an
+ existing master backend somewhere on your network.
+Key:
+ mythtv-backend
+Seeds: desktop
+Packages: task-fields

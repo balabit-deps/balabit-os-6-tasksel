@@ -1,0 +1,7 @@
+Task: tomcat-server
+Section: server
+Description: Tomcat Java server
+ Selects a ready-made Java Application server.
+Key:
+ tomcat7
+Packages: task-fields

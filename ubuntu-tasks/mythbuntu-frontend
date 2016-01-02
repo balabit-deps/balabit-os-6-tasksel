@@ -1,0 +1,9 @@
+Task: mythbuntu-frontend
+Section: user
+Description: Mythbuntu frontend
+ This task installs a MythTV frontend. It needs an
+ existing master backend somewhere on your network.
+Key:
+ mythtv-frontend
+Seeds: desktop
+Packages: task-fields

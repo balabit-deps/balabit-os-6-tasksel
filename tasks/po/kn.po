@@ -1,0 +1,131 @@
+# translation of tasksel_tasks_kn.po to Kannada
+# Copyright (C) 2007 THE tasksel_tasks_kn'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the tasksel_tasks_kn package.
+# Swatantra Kannada Localisation Initiative
+# Vikram Vincent <vincentvikram@gmail.com>, 2007, 2012.
+# Translators
+# Prabodh C P <prabodh@fsmk.org>, 2012.
+# Credits
+# Translations by Free Software Movement Karnataka(FSMK), 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tasksel_tasks_kn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-11 16:19-0500\n"
+"PO-Revision-Date: 2012-02-09 20:58+0530\n"
+"Last-Translator: Prabodh C P <prabodh@fsmk.org>\n"
+"Language-Team: Kannada <debian-l10n-kannada@lists.debian.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Description
+#: ../po/debian-tasks.desc:10001
+msgid "standard system utilities"
+msgstr "ಪ್ರಮಾಣಿತ ಗಣಕ ಸೌಲಭ್ಯಗಳು"
+
+#. Description
+#: ../po/debian-tasks.desc:10001
+msgid ""
+"This task sets up a basic user environment, providing a reasonably small "
+"selection of services and tools usable on the command line."
+msgstr ""
+"ಈ ಕಾರ್ಯವು ಆಜ್ಞಾ ರೇಖೆಯಲ್ಲಿ ಬಳಸಬಲ್ಲಂತಹ ಸೇವೆ ಮತ್ತು ಸಲಕರಣೆಗಳ ಸಣ್ಣ ಸಮೂಹವನ್ನು ಒದಗಿಸುವ "
+"ಮೂಲಭೂತ ಬಳಕೆದಾರ ಪರಿಸರವನ್ನು ನಿರ್ಮಿಸುತ್ತದೆ."
+
+#~ msgid "SQL database"
+#~ msgstr "SQL ದತ್ತಸಂಚಯ"
+
+#, fuzzy
+#~ msgid "Graphical desktop environment"
+#~ msgstr "XFCE ಗಣಕತೆರೆ ಪರಿಸರ"
+
+#~ msgid ""
+#~ "This task provides basic desktop software and serves as a basis for the "
+#~ "GNOME and KDE desktop tasks."
+#~ msgstr ""
+#~ "ಇದು ಜಿನೋಮ್ ಗಣಕತೆರೆ ಪರಿಸರವನ್ನು ಬಳಸಿ ಮೂಲಭೂತ ಗಣಕತೆರೆ ತಂತ್ರಾಂಶವನ್ನು ಒದಗಿಸುವದು."
+
+#~ msgid "DNS server"
+#~ msgstr "DNS ಸರ್ವರ್"
+
+#~ msgid "File server"
+#~ msgstr "ಕಡತ ಸರ್ವರ್"
+
+#~ msgid ""
+#~ "This task sets up your system to be a file server, supporting both CIFS "
+#~ "and NFS."
+#~ msgstr ""
+#~ "ಇದು ನಿಮ್ಮ ಗಣಕವ್ಯವಸ್ಥೆಯನ್ನು CIFS ಮತ್ತು NFS ಗೆ ಬೆಂಬಲಿಸುತ್ತ ಕಡತ ಸರ್ವರ್ ಆಗಿ "
+#~ "ಅಣಿಗೊಳಿಸುವದು."
+
+#~ msgid "GNOME desktop environment"
+#~ msgstr "ಜಿನೋಮ್ ಗಣಕತೆರೆ ಪರಿಸರ"
+
+#~ msgid ""
+#~ "This task provides basic \"desktop\" software using the GNOME desktop "
+#~ "environment."
+#~ msgstr ""
+#~ "ಇದು ಜಿನೋಮ್ ಗಣಕತೆರೆ ಪರಿಸರವನ್ನು ಬಳಸಿ ಮೂಲಭೂತ ಗಣಕತೆರೆ ತಂತ್ರಾಂಶವನ್ನು ಒದಗಿಸುವದು."
+
+#~ msgid "KDE desktop environment"
+#~ msgstr "KDE ಗಣಕತೆರೆ ಪರಿಸರ"
+
+#~ msgid ""
+#~ "This task provides basic \"desktop\" software using the K Desktop "
+#~ "Environment."
+#~ msgstr "ಇದು KDE ಗಣಕತೆರೆ ಪರಿಸರವನ್ನು ಬಳಸಿ ಮೂಲಭೂತ ಗಣಕತೆರೆ ತಂತ್ರಾಂಶವನ್ನು ಒದಗಿಸುವದು"
+
+#~ msgid "Laptop"
+#~ msgstr "ಲ್ಯಾಪ್‍ಟಾಪ್"
+
+#~ msgid "This task installs software useful for a laptop."
+#~ msgstr "ಇದು ಲ್ಯಾಪ್‍ಟಾಪ್ ಗೆ ಉಪಯುಕ್ತವಾದ ತಂತ್ರಾಂಶವನ್ನು ಅನುಸ್ಥಾಪಿಸುವದು."
+
+#~ msgid "LXDE desktop environment"
+#~ msgstr "XFCE ಗಣಕತೆರೆ ಪರಿಸರ"
+
+#~ msgid ""
+#~ "This task provides basic \"desktop\" software using the LXDE desktop "
+#~ "environment."
+#~ msgstr ""
+#~ "ಇದು XFCE' ಗಣಕತೆರೆ ಪರಿಸರವನ್ನು ಬಳಸಿ ಮೂಲಭೂತ ಗಣಕತೆರೆ ತಂತ್ರಾಂಶವನ್ನು ಒದಗಿಸುವದು"
+
+#~ msgid "Mail server"
+#~ msgstr "ಅಂಚೆ ಸರ್ವರ್"
+
+#~ msgid "manual package selection"
+#~ msgstr "ಸ್ವತಃ ಮೆದುಸರಕಿನ ಆಯ್ಕೆ"
+
+#~ msgid "Manually select packages to install in aptitude."
+#~ msgstr "ಆಪ್ಟಿಟ್ಯೂಡಿನಲ್ಲಿ ಅನುಸ್ಥಾಪಿಸಲು ಸ್ವತಃ ಮೆದುಸರಕುಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+
+#~ msgid "Print server"
+#~ msgstr "ಮುದ್ರಣ ಸರ್ವರ್"
+
+#~ msgid "This task sets up your system to be a print server."
+#~ msgstr "ಇದು ನಿಮ್ಮ ಗಣಕವ್ಯವಸ್ಥೆಯನ್ನು ಮುದ್ರಣ ಸರ್ವರ್ ಆಗಿ ಅಣಿಗೊಳಿಸುವುದು."
+
+#, fuzzy
+#~ msgid "SSH server"
+#~ msgstr "DNS ಸರ್ವರ್"
+
+#, fuzzy
+#~ msgid ""
+#~ "This task sets up your system to be remotely accessed through SSH "
+#~ "connections."
+#~ msgstr "ಇದು ನಿಮ್ಮ ಗಣಕವ್ಯವಸ್ಥೆಯನ್ನು ಮುದ್ರಣ ಸರ್ವರ್ ಆಗಿ ಅಣಿಗೊಳಿಸುವುದು."
+
+#~ msgid "Web server"
+#~ msgstr "ವೆಬ್ ಸರ್ವರ್"
+
+#~ msgid "Xfce desktop environment"
+#~ msgstr "XFCE ಗಣಕತೆರೆ ಪರಿಸರ"
+
+#~ msgid ""
+#~ "This task provides basic \"desktop\" software using the Xfce desktop "
+#~ "environment."
+#~ msgstr ""
+#~ "ಇದು XFCE' ಗಣಕತೆರೆ ಪರಿಸರವನ್ನು ಬಳಸಿ ಮೂಲಭೂತ ಗಣಕತೆರೆ ತಂತ್ರಾಂಶವನ್ನು ಒದಗಿಸುವದು"
